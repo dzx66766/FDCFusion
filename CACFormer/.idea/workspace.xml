@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65595e53-8f6e-4e55-8929-3b707bfb5013" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CACFormer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PIAFusion_pytorch-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_fusion_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_fusion_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_fusion_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_fusion_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_00211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_00977.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_01130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04593.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04722.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_04943.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05857.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05879.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05893.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_05955.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06974.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_06995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07555.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07809.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07968.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_07970.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08592.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_08858.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_09465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/ir/FLIR_video_02829.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_00211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_00977.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_01130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04593.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04722.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_04943.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05857.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05879.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05893.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_05955.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06974.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_06995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07555.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07809.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07968.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_07970.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08592.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_08858.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_09465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/RoadScene/vi/FLIR_video_02829.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/ir/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/TNO/vi/25.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="30XVNHu2Gx10WScjYSJNIKICWAo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HuaweiMoveData\Users\我的文档\Desktop\新建文件夹\CACFormer\models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="65595e53-8f6e-4e55-8929-3b707bfb5013" name="变更" comment="" />
+      <created>1753773868571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753773868571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
