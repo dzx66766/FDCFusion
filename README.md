@@ -7,7 +7,7 @@ M3FD datasets：https://github.com/JinyuanLiu-CV/TarDAL
 RoadScene datasets:https://github.com/hanna-xu/RoadScene
 
 Overview：
-This project implements an infrared and visible image fusion framework with an illumination perception mechanism.
+This project implements a frequency-domain caformer-cnn fusion network for infrared and visible image fusion.
 It contains two main components:Fusion Model — extracts and fuses features from infrared and visible images;Illumination Classification Model — predicts illumination conditions to guide adaptive fusion.The project supports model training, testing, and quantitative evaluation on datasets such as MSRS, TNO, and RoadScene.
 
 How to Run：
